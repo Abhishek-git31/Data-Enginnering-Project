@@ -24,9 +24,13 @@ https://github.com/Abhishek-git31/Data-Enginnering-Project.git
 MS Teams channel: General | Data_Engineering_Project_discussion
 Data_Engineering_Project_Discussion
 
-Team Members:
 Professor: Farhan Khan
+
+Team Members:
 Pradeep Kunchenahalli Nagarajappa (team Lead)
+
 Abhishek Karthik Akunuru
+
 Mahesh Gowda Sonnegowda
+
 Nisarga Bhaktharahalli Muniraju
