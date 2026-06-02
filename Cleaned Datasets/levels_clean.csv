@@ -1,0 +1,204 @@
+level_id,level_index,level_name,level_position
+1,2,Unnamed Level,Above Ground
+10,-2,"Zwischengeschoss U-Bahn, Treppenabsatz U2",Below Ground
+100,2,S Bahnsteig,Above Ground
+101,-4,U-Bahnsteig,Below Ground
+102,1,Bahnsteige DB & S-Bahn,Above Ground
+103,-3,"U-Bahnverteiler, UG Bahnhofshalle",Below Ground
+104,-2,"S-Bahnverteiler, Unterführung zur U-Bahn",Below Ground
+105,-1,Treppenpodeste,Below Ground
+106,-1,Bahnsteigebene,Below Ground
+107,2,Bahnsteigebene,Above Ground
+108,-1,Unterführung,Below Ground
+109,1,Fußgängerunterführung,Above Ground
+11,1,Mittelgeschoss und Treppenabsatz,Above Ground
+110,0,Straßen- und Bahnsteigebene,Ground Level
+111,-3,Zwischengeschoss Unterführung,Below Ground
+112,-4,Unterführung,Below Ground
+113,-1,Zwischengeschoss Tram,Below Ground
+114,-1,Oberes Zwischengeschoss,Below Ground
+115,0,Bahnsteigebene,Ground Level
+116,-1,Podest,Below Ground
+117,1,Tunnel,Above Ground
+118,2,Fußgängerbrücke,Above Ground
+119,-1,Unterführungsebene,Below Ground
+12,-1,"Verteiler, Bahnsteig U2, Untergeschoss Empfangshalle, Zwischengeschoss Unterführung",Below Ground
+120,-1,Regionalbahn,Below Ground
+121,2,Bahnsteige,Above Ground
+122,0,Straßenebene/ Unterführung,Ground Level
+123,1,Zwischengeschoss der Treppe in der Unterführung,Above Ground
+124,-1,Zwischenebene,Below Ground
+125,-5,Unterführung,Below Ground
+126,-4,"Velodrom, Schwimm- und Sprunghalle",Below Ground
+127,-2,Bahnsteig,Below Ground
+128,0,Straßenebene und Bahnhofsgebäude,Ground Level
+129,-1,Treppenpodest im Eingangsgebäude,Below Ground
+13,-3,"Bahnsteig U8, Zwischengeschoss U5 U2 und Zwischengeschoss U5 Verteiler",Below Ground
+130,3,S-Bahnsteig S4,Above Ground
+131,1,S-Bahnsteig S1,Above Ground
+132,2,Zwischengeschoss,Above Ground
+133,-1,Bahnsteig,Below Ground
+134,1,Dresselsteg,Above Ground
+135,-3,Bahnsteigebene,Below Ground
+136,1,Zwischengeschoss beim Zugang Priesterweg,Above Ground
+137,0,untere Bahnsteigebene,Ground Level
+138,1,obere Bahnsteigebene,Above Ground
+139,0,Straßenebene und Bahnsteigebene,Ground Level
+14,-5,Bahnsteige der U5,Below Ground
+140,0,Durchgang,Ground Level
+141,1,Bahnhofsgebäude,Above Ground
+142,-1,Fußgängerunterführung,Below Ground
+143,-1,Personenüberführung,Below Ground
+144,-2,Busunterführung,Below Ground
+145,-1,Unterführungen,Below Ground
+146,1,Zwischengeschoss Bahnhofshalle Nord,Above Ground
+147,2,Bahnsteigebene / Park&Ride,Above Ground
+148,0,Bahnhofsplatz,Ground Level
+149,1,Treppenpodeste,Above Ground
+15,1,Regional und S-Bahnsteig,Above Ground
+150,1,Ringbahnsteigebene,Above Ground
+151,-1,Gebäuderückseite,Below Ground
+152,1,Bahnsteig + ZOB,Above Ground
+153,-1,Bahnsteigebene und Tramsteige,Below Ground
+154,1,Zugangsbereich Autobahnbrücke,Above Ground
+155,3,Bahnsteigebene,Above Ground
+156,2,Eingangshalle,Above Ground
+157,1,Zugangsbereich Wiltbergstraße,Above Ground
+158,0,Vorplatz und Bahnsteige,Ground Level
+159,0,Straßenbereich,Ground Level
+16,-4,Zwischengeschoss U5 U8,Below Ground
+160,-1,Fähranleger,Below Ground
+161,0,Straßen- und Bahnseigebene,Ground Level
+162,1,Bahnhofspassage,Above Ground
+163,0,Bahnsteig- und Straßenebene,Ground Level
+164,-2,Tunnel,Below Ground
+165,1,Bahnsteig Gleis 1 und 3,Above Ground
+166,0,Straßenebene/Bahnhofsvorplatz,Ground Level
+167,2,Bahnsteig Gleis 2,Above Ground
+168,5,Empfangsgebäude,Above Ground
+169,0,"Straßenebene, Bahnhofshalle und Bahnsteige",Ground Level
+17,-2,Ladenstraße und Zwischengeschoss U8,Below Ground
+170,-1,Fußgängertunnel/ Unterführung,Below Ground
+171,1,Bahnsteig Gleis 5,Above Ground
+172,-2,Unterführung,Below Ground
+173,1,Bahnsteig Gleis 1,Above Ground
+174,2,Obere Bahnsteige,Above Ground
+175,1,Überführung,Above Ground
+176,1,Bahnsteig Gleis 3,Above Ground
+177,1,Straßenbrücke,Above Ground
+178,-3,Unterführung Bahnsteig,Below Ground
+179,-2,UNterführung Zugang Bergstraße,Below Ground
+18,-1,U-Bahnsteigebene,Below Ground
+180,0,Straßen- & Bahnsteigebene,Ground Level
+181,1,Bahnsteige,Above Ground
+182,0,Straßenniveau,Ground Level
+183,1,Bahnsteig Gleis 1a,Above Ground
+184,2,Bahnsteig Gleis 1b,Above Ground
+185,0,Straßenebene / Bahnsteig Gleis 2,Ground Level
+186,1,Empfangshalle / Bahnsteig 1,Above Ground
+187,1,Gleis 2,Above Ground
+188,0,Straßenebene/Gleis 1,Ground Level
+189,0,Straßenebene/Bahnsteig,Ground Level
+19,-3,Große Halle + S-Bahnsteige,Below Ground
+190,2,Überführung obere Ebene,Above Ground
+191,1,Bahnsteig Gleis 2,Above Ground
+192,2,Bahnsteig Gleis 6 und 7,Above Ground
+193,2,Bahnsteig Gleis 1,Above Ground
+194,0,Straßenebene / Bahnsteig,Ground Level
+195,2,Überführung untere Ebene,Above Ground
+196,3,Überführung obere Ebene,Above Ground
+197,1,Podest,Above Ground
+198,1,Tramsteig,Above Ground
+199,-1,Tramsteig,Below Ground
+2,-1,Unnamed Level,Below Ground
+20,-2,Zwischengeschoss,Below Ground
+200,-1,Bahnsteig U6 und Zwischengeschoss,Below Ground
+201,0,Straßeneben,Ground Level
+202,1,Brücke Potsdamer Straße,Above Ground
+203,0,Staßenebene,Ground Level
+21,-4,Bahnsteigebene Regionalbahn,Below Ground
+22,-3,Unnamed Level,Below Ground
+23,4,Unnamed Level,Above Ground
+24,3,Unnamed Level,Above Ground
+25,2,Bahnsteig,Above Ground
+26,1,Treppenabsatz,Above Ground
+27,-4,Bahnsteig U7,Below Ground
+28,-2,Bahnsteig U9,Below Ground
+29,-1,Zwischengeschoss,Below Ground
+3,-2,Unnamed Level,Below Ground
+30,-3,Treppenabsatz,Below Ground
+31,-4,Unnamed Level,Below Ground
+32,-2,U-Bahnsteigebene,Below Ground
+33,1,Bahnsteigebene,Above Ground
+34,-3,Bahnsteig U7,Below Ground
+35,-1,Bahnsteig U8 und Zwischengeschoss/Übergang,Below Ground
+36,-2,Treppenabsatz,Below Ground
+37,-3,U-Bahnsteigebene,Below Ground
+38,2,S-Bahnsteigebene,Above Ground
+39,1,Bahnhofshalle,Above Ground
+4,0,Unnamed Level,Ground Level
+40,-1,Treppenabsatz,Below Ground
+41,-5,Bahnsteig U8,Below Ground
+42,-3,Bahnsteig U9,Below Ground
+43,-4,Treppenabsatz U8 U9,Below Ground
+44,-2,Bahnhofshalle,Below Ground
+45,-1,Treppenabsatz Tram,Below Ground
+46,2,Bahnsteig U1/U3,Above Ground
+47,1,Zwischengeschoss U1/U3,Above Ground
+48,-2,Zwischengeschoss U7,Below Ground
+49,-3,Bahnsteig,Below Ground
+5,1,Unnamed Level,Above Ground
+50,1,Bahnsteig,Above Ground
+51,2,Überführung,Above Ground
+52,-2,Zwischengeschoss -2,Below Ground
+53,1,Fußgängerbrücke,Above Ground
+54,-1,Zwischengeschoss -1,Below Ground
+55,-3,Bahnsteig U5,Below Ground
+56,-1,Rampe -1,Below Ground
+57,-2,Rampe -2,Below Ground
+58,4,Bahnsteig,Above Ground
+59,1,Zwischenebene,Above Ground
+6,-3,"Bahnsteig U9, Unterführung U2",Below Ground
+60,2,Zwischenebene 2,Above Ground
+61,3,Zwischenebene 3,Above Ground
+62,2,Bahnsteig U5,Above Ground
+63,-1,Fußgängertunnel,Below Ground
+64,0,Straße,Ground Level
+65,1,Zwischengeschoss,Above Ground
+66,3,Bahnsteig,Above Ground
+67,2,Treppenabsatz,Above Ground
+68,-2,Bahnsteigebene,Below Ground
+69,1,mittlerer Treppenabsatz,Above Ground
+7,-1,Bahnsteig U2,Below Ground
+70,3,Zwischenstufe,Above Ground
+71,2,Bahnsteig U1 U3,Above Ground
+72,-3,Bahnsteig U8,Below Ground
+73,-1,Zwischengeschosse,Below Ground
+74,1,Treppenabsatz U1 U3,Above Ground
+75,-2,Treppenabsatz U8,Below Ground
+76,-2,Bahnsteig U8,Below Ground
+77,-3,Bahnsteig U6,Below Ground
+78,-1,U-Bahnsteig,Below Ground
+79,1,S-Bahnsteigebene,Above Ground
+8,2,DB Bahnsteige,Above Ground
+80,-3,U-Bahnsteig,Below Ground
+81,-1,S-Bahnsteig,Below Ground
+82,-4,Bahnsteig U8,Below Ground
+83,-2,S-Bahnsteig,Below Ground
+84,-2,U-Bahnsteig oben,Below Ground
+85,-3,U-Bahnsteig unten,Below Ground
+86,-1,Bahnhofshalle,Below Ground
+87,1,S-Bahnsteig,Above Ground
+88,-3,U-Bahnhof U9,Below Ground
+89,-1,S-Bahnsteige Ringbahn,Below Ground
+9,0,Straßenebene,Ground Level
+90,0,Straßenniveau/ Putlitzbrücke,Ground Level
+91,-2,Zwischengeschosse,Below Ground
+92,-2,Zwischenebene,Below Ground
+93,3,Bahnsteig S5/7/75/3,Above Ground
+94,-3,Übergang und Treppenabsatz Holzmarktstraße,Below Ground
+95,-2,Zwischengeschoss Alexanderstraße und Treppenabsatz,Below Ground
+96,-1,Zwischengeschoss Brückenstraße,Below Ground
+97,2,Bahnhofshalle,Above Ground
+98,1,Zwischengeschoss Holzmarktstraße,Above Ground
+99,-2,Bahnsteig U5,Below Ground
