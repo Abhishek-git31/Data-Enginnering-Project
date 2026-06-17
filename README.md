@@ -3,6 +3,36 @@
 Project Title:
 VBB Transit Data Engineering and Analytics Platform
 
+# VBB Transit Data Engineering Platform
+Berlin-Brandenburg Public Transport Analytics
+
+## Team
+Pradeep | Abhishek | Mahesh | Nisarga
+Professor: Dr. Farhan Khan | DS463
+
+## Tools Used
+- Apache NiFi (Data Ingestion)
+- Apache Kafka (Streaming)
+- Python + Pandas (Cleaning)
+- PostgreSQL (Storage)
+- Apache Spark (Processing)
+- Apache Airflow (Orchestration)
+- Scikit-learn (ML Model)
+- Plotly + Folium (Visualisation)
+
+## Notebooks
+- Pre-Processing_Datasets.ipynb — Data cleaning
+- EDA_Analysis.ipynb — Charts + Berlin map
+- Spark_Processing.ipynb — Big data processing
+- ML_Delay_Model.ipynb — Delay prediction (69.6% accuracy)
+
+## Business Questions Answered
+- BQ2: Busiest stops — S+U Rathaus Spandau (1,177 connections)
+- BQ3: Peak hour reliability — Rush hours increase delays 20%
+- BQ4: Delay prediction — 69.6% accuracy Random Forest model
+- BQ5: Historical changes — 75,729 service exceptions tracked
+- BQ6: Query-ready surface — PostgreSQL + Spark Parquet files
+
 
 
 Problem Statement:
